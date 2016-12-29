@@ -1,0 +1,11 @@
+<ofxGenSound>
+	<isCreateMode>1</isCreateMode>
+	<boxSize>28</boxSize>
+	<boxAudioScale>164</boxAudioScale>
+	<Triangle_Wave_Freq>247.5</Triangle_Wave_Freq>
+	<Sine_Wave_Freq>82.41</Sine_Wave_Freq>
+	<Saw_Wave_Freq>82.41</Saw_Wave_Freq>
+	<Filter_Cutoff>0.5</Filter_Cutoff>
+	<Delay_Feedback>0.2655</Delay_Feedback>
+<ofxGenSound/>
+</ofxGenSound>
